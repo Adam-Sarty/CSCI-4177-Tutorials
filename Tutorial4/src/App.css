@@ -55,6 +55,11 @@ form, .profile, .userList {
   transition: transform 0.3s ease-in-out;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Button Styles */
 button {
   background-color: #003366;

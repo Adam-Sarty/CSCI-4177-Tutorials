@@ -41,7 +41,6 @@ function Login({ onLoginSuccess }) {
           <h1>Welcome to Tutorial 4</h1>
           <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Email" required/>
           <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} placeholder="Password" required/>
-          <br/>
           <button type="submit">Login</button>
         </form>
       </div>
