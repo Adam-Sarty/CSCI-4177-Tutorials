@@ -6,6 +6,8 @@
  */
 
 /* Base Layout Styles */
+/* ------------------------------------------------------ */
+
 /* Container and Footer Styles */
 .container, .footer {
   position: relative;
@@ -238,8 +240,17 @@ input[type=text], input[type=password], input[type=email] {
 }
 
 /* Responsive Design Adjustments */
+/* ------------------------------------------------------ */
 @media (max-width: 1000px) {
   .detail-box {
+    width: 100%;
+  }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  /* Make all input fields 100% width on mobile */
+  input[type=text], input[type=password], input[type=email] {
     width: 100%;
   }
 }
