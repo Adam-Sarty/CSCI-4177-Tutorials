@@ -2,8 +2,8 @@
 
 * *Date Created*: 18 MAR 2024
 * *Last Modification Date*: 18 MAR 2024
-* *Assignment URL*: <>
-* *Git URL*: <https://git.cs.dal.ca/sarty/csci-3172/-/tree/main/lab6/>
+* *Assignment URL*: <https://fluffy-panda-7d577a.netlify.app>
+* *Git URL*: <https://git.cs.dal.ca/sarty/csci-3172/-/tree/main/labs/lab6/>
 
 ## Authors
 
