@@ -5,7 +5,6 @@
  * ==============================================================================
  */
 
-require('dotenv').config();
 const express = require('express');
 const { MongoClient, ObjectId } = require('mongodb');
 
@@ -111,7 +110,7 @@ app.use((err, req, res, next) => {
 // Connect to MongoDB and start the server
 client.connect()
     .then(() => {
-        const port = process.env.PORT;
+        const port = 3000;
         app.listen(port, () => console.log(`Server running on port ${port}`));
     })
     .catch(console.error);
