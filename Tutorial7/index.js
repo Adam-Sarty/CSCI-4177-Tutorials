@@ -13,7 +13,7 @@ const app = express();
 app.use(express.json());
 
 // MongoDB connection setup
-const uri = process.env.MONGODB_URI;
+const uri = "mongodb+srv://awcsarty:hrjK0W39qYcDuEuJ@cluster.xljc5xq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"
 const client = new MongoClient(uri);
 const database = client.db("Tutorial7");
 const usersCollection = database.collection("users");
