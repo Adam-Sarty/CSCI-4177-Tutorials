@@ -2,7 +2,7 @@
 
 * *Date Created*: 25 MAR 2024
 * *Last Modification Date*: 25 MAR 2024
-* *Assignment URL*: <https://csci-4177-tutorials-prc0.onrender.com>
+* *Assignment URL*: <https://csci-4177-tutorial7.onrender.com>
 * *Git URL*: <https://git.cs.dal.ca/sarty/csci-4177-tutorials/-/tree/main/Tutorial7/>
 
 ## Authors
